@@ -1,0 +1,25 @@
+_repo: A-Letter-to-the-Rev-William-Maskell_54269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mayow, Mayow Wynell
+    aliases:
+    - Mayow, M. W. (Mayow Wynell)
+    - Wynell-Mayow, Mayow
+    birthdate: 1810
+    deathdate: 1895
+    gutenberg_agent_id: '45025'
+    url: http://www.gutenberg.org/2009/agents/45025
+description: ''
+gutenberg_issued: '2017-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Letter to the Rev. William Maskell
+url: http://www.gutenberg.org/ebooks/54269
